@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "": [
+		{ "model": "block/bricks" },
+		{ "model": "block/alt/bricks_1" },
+		{ "model": "block/alt/bricks_2" },
+		{ "model": "block/alt/bricks_3" },
+		{ "model": "block/alt/bricks_4" },
+		{ "model": "block/alt/bricks_5" },
+		{ "model": "block/alt/bricks_6" },
+		{ "model": "block/alt/bricks_7" },
+		{ "model": "block/alt/bricks_8" },
+		{ "model": "block/alt/bricks_9" },
+		{ "model": "block/alt/bricks_10" }
+		]
+    }
+}

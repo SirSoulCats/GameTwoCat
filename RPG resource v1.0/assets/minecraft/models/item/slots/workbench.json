@@ -1,0 +1,11 @@
+{
+	"parent": "item/renders/gui",
+	"textures": {
+		"layer0": "item/slots/workbench"
+	},
+	"display": {
+		"gui": {
+		  "scale": [ 1, 1, 1 ]
+		}
+	}
+}

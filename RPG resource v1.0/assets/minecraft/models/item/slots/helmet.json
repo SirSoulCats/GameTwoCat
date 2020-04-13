@@ -1,0 +1,6 @@
+{
+	"parent": "item/renders/gui",
+	"textures": {
+		"layer0": "item/slots/helmet"
+	}
+}

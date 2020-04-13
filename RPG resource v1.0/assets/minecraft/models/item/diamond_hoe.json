@@ -1,0 +1,36 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/diamond_hoe"
+	},
+	"overrides": [
+		{ "_comment": "/give {player} diamond_hoe{Unbreakable:1,Damage:1}",   "predicate": {"damaged": 0, "damage": 0.00064}, "model": "item/slots/fill"},
+		{ "_comment": "/give {player} diamond_hoe{Unbreakable:1,Damage:2}",   "predicate": {"damaged": 0, "damage": 0.00128}, "model": "item/slots/workbench"},
+		{ "_comment": "/give {player} diamond_hoe{Unbreakable:1,Damage:3}",   "predicate": {"damaged": 0, "damage": 0.00192}, "model": "item/slots/info"},
+		{ "_comment": "/give {player} diamond_hoe{Unbreakable:1,Damage:4}",   "predicate": {"damaged": 0, "damage": 0.00256}, "model": "item/slots/helmet"},
+		{ "_comment": "/give {player} diamond_hoe{Unbreakable:1,Damage:5}",   "predicate": {"damaged": 0, "damage": 0.00320}, "model": "item/slots/chestplate"},
+		{ "_comment": "/give {player} diamond_hoe{Unbreakable:1,Damage:6}",   "predicate": {"damaged": 0, "damage": 0.00384}, "model": "item/slots/leggings"},
+		{ "_comment": "/give {player} diamond_hoe{Unbreakable:1,Damage:7}",   "predicate": {"damaged": 0, "damage": 0.00448}, "model": "item/slots/boots"},
+		{ "_comment": "/give {player} diamond_hoe{Unbreakable:1,Damage:8}",   "predicate": {"damaged": 0, "damage": 0.00512}, "model": "item/slots/gloves"},
+		{ "_comment": "/give {player} diamond_hoe{Unbreakable:1,Damage:9}",   "predicate": {"damaged": 0, "damage": 0.00576}, "model": "item/slots/weapon"},
+		{ "_comment": "/give {player} diamond_hoe{Unbreakable:1,Damage:10}",  "predicate": {"damaged": 0, "damage": 0.00640}, "model": "item/slots/shield"},
+		{ "_comment": "/give {player} diamond_hoe{Unbreakable:1,Damage:11}",  "predicate": {"damaged": 0, "damage": 0.00704}, "model": "item/slots/elytra"},
+		{ "_comment": "/give {player} diamond_hoe{Unbreakable:1,Damage:12}",  "predicate": {"damaged": 0, "damage": 0.00768}, "model": "item/slots/ring"},
+		{ "_comment": "/give {player} diamond_hoe{Unbreakable:1,Damage:13}",  "predicate": {"damaged": 0, "damage": 0.00832}, "model": "item/slots/amulet"},
+		{ "_comment": "/give {player} diamond_hoe{Unbreakable:1,Damage:14}",  "predicate": {"damaged": 0, "damage": 0.00896}, "model": "item/slots/pet"},
+		{ "_comment": "/give {player} diamond_hoe{Unbreakable:1,Damage:15}",  "predicate": {"damaged": 0, "damage": 0.00960}, "model": "item/slots/backpack"},
+		{ "_comment": "/give {player} diamond_hoe{Unbreakable:1,Damage:16}",  "predicate": {"damaged": 0, "damage": 0.01024}, "model": "item/slots/artifact"},
+		{ "_comment": "/give {player} diamond_hoe{Unbreakable:1,Damage:17}",  "predicate": {"damaged": 0, "damage": 0.01088}, "model": "item/slots/empty"},
+		{ "_comment": "/give {player} diamond_hoe{Unbreakable:1,Damage:18}",  "predicate": {"damaged": 0, "damage": 0.01152}, "model": "item/slots/buyable"},
+		{ "_comment": "/give {player} diamond_hoe{Unbreakable:1,Damage:19}",  "predicate": {"damaged": 0, "damage": 0.01216}, "model": "item/slots/locked"},
+		{ "_comment": "/give {player} diamond_hoe{Unbreakable:1,Damage:20}",  "predicate": {"damaged": 0, "damage": 0.01280}, "model": "item/backpacks/small"},
+		{ "_comment": "/give {player} diamond_hoe{Unbreakable:1,Damage:21}",  "predicate": {"damaged": 0, "damage": 0.01344}, "model": "item/backpacks/medium"},
+		{ "_comment": "/give {player} diamond_hoe{Unbreakable:1,Damage:22}",  "predicate": {"damaged": 0, "damage": 0.01408}, "model": "item/backpacks/large"},
+		{ "_comment": "/give {player} diamond_hoe{Unbreakable:1,Damage:23}",  "predicate": {"damaged": 0, "damage": 0.01472}, "model": "item/items/ring"},
+		{ "_comment": "/give {player} diamond_hoe{Unbreakable:1,Damage:24}",  "predicate": {"damaged": 0, "damage": 0.01536}, "model": "item/items/gloves"},
+		{ "_comment": "/give {player} diamond_hoe{Unbreakable:1,Damage:25}",  "predicate": {"damaged": 0, "damage": 0.01600}, "model": "item/items/amulet"},
+		{ "_comment": "/give {player} diamond_hoe{Unbreakable:1,Damage:26}",  "predicate": {"damaged": 0, "damage": 0.01664}, "model": "item/items/scroll"},
+        { "_comment": "/give {player} diamond_hoe{Unbreakable:1,Damage:27}",  "predicate": {"damaged": 0, "damage": 0.01728}, "model": "item/slots/extendable"},
+		{ "_comment": "/give {player} diamond_hoe{Unbreakable:1,Damage:28+}", "predicate": {"damaged": 0, "damage": 0.01792}, "model": "item/diamond_hoe"}
+	]
+}

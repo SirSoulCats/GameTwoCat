@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "block/alt/carrots_stage3_3"
+    }
+}

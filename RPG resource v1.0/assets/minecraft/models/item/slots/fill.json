@@ -1,0 +1,11 @@
+{
+	"parent": "item/renders/gui",
+	"textures": {
+		"layer0": "item/slots/fill"
+	},
+	"display": {
+		"gui": {
+		  "scale": [ 1.15, 1.15, 1.15 ]
+		}
+	}
+}

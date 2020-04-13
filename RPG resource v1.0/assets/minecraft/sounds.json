@@ -1,0 +1,74 @@
+{
+  "custom.bell": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "custom/bell",
+        "stream": true
+        
+      }]
+  },
+  "custom.cinematic-calm": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "custom/cinematic-calm",
+        "stream": true
+        
+      }]
+  },
+    "custom.cinematic-choir": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "custom/cinematic-choir",
+        "stream": true
+        
+      }]
+  },
+    "custom.cinematic-intro": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "custom/cinematic-intro",
+        "stream": true
+        
+      }]
+  },
+  "custom.dora": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "custom/dora",
+        "stream": true
+        
+      }]
+  },
+  "custom.dragontales": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "custom/dragontales",
+        "stream": true
+        
+      }]
+  },
+  "custom.teleport": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "custom/teleport",
+        "stream": true
+        
+      }]
+  },
+  "custom.welcome": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "custom/welcome",
+        "stream": true
+        
+      }]
+  }
+  }
